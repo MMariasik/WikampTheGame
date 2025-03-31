@@ -1,0 +1,40 @@
+I. Bib graficzne:
+ 1. raylib - prosta biblioteka napisana w C, C++ też działa, proste API
+ 2. SFML - lepiej rozbudowana bib napisana w C++, idealnie działa z C++(wow), 
+	   bardziej czytelna, trudniejsza do nauki
+ 3. SDL - nwm co to, napisana w C
+
+Zadanie 2.
+
+    symulować mapę, działanie kamery,
+a) tło będzię się ruszać, a postać jest fixed, sumuluje ruch kamery
+- np. 
+b) tło się nie rusza, a postać biega po ekranie, brak ruchu kamery
+    umożliwiać wstawienie grafiki rastrowej, wektorowej, animacji,
+a)  biblioteka to załatwi
+    umożliwiać realizację mikroanimacji elementów nawigacyjnych, ruchu i interaktywności
+a) kilka klatek postaci narysować i zegar je podmienia sumulując animacje
+    obsługiwać dźwięk
+a) biblioteka zalatwi sprawe
+    obsługiwać interakcję charakterystyczną dla ekranów dotykowych (gesty)
+nie
+    obsługiwać generowanie zdarzeń przy pomocy timera lub losowo (np pokazywanie nadchodzących powiadomień)
+a) jakieś wiadomości od kolegi co daje notatki  
+
+3. ekran wikamp tło, paralax efekt, "dodanie 3 wymiaru", odpowiednie kolizje
+   niszczenie UI wikampa, usuwanie bloczków, jakąś bronią, lub skakaniem(jak mario)
+   
+4. postać może przechodzić przez zakładki wikampa, wchodzić w konkretne i odblokowywać kolejne levele
+5. przeciwnicy - ["hackerzy utrudniający gre" - watpie ze zaimplementujemy]
+6. zbieranie punktów ects - np 30, aby coś odblokować
+7. kolokwium/wejsciowka mini bos - pokonanie - zdanie -> jakieś bufy
+			przegranie - niezdanie -> debufy, kary
+   mini bosy kolokwia/wejsciowki by się randomowo pojawiały po wejściu w konkretny przedmiot
+8. może w prywatnych plikach/wiadomościach, jakieś mikro notatki, ściągi, rzeczy które by były powiązane z kolosami
+   z przedmiotów, aby się "przygotować"	      
+
+9. easter egg - obowiązkowo
+
+10. cel gry - może, jakieś kilka popsutych modułów gdzieś w wikampie, które trzeba naprawić
+    - czy to nie gryzie się z pierwotnym konceptem, że gracz samemu usuwa elementy wikampa by zrobić pod siebie?
+    - z drugiej strony, chcemy aby gracz naprawił wikamp
