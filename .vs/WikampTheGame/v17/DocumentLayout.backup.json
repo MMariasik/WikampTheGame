@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "C:\\Users\\maria\\OneDrive\\Desktop\\kck\\WikampTheGame\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{96AF8D12-8868-4DB8-83C7-6F56E2F121EF}|WikampTheGame\\WikampTheGame.vcxproj|C:\\Users\\maria\\OneDrive\\Desktop\\kck\\WikampTheGame\\WikampTheGame\\Player.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{96AF8D12-8868-4DB8-83C7-6F56E2F121EF}|WikampTheGame\\WikampTheGame.vcxproj|solutionrelative:WikampTheGame\\Player.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96AF8D12-8868-4DB8-83C7-6F56E2F121EF}|WikampTheGame\\WikampTheGame.vcxproj|C:\\Users\\maria\\OneDrive\\Desktop\\kck\\WikampTheGame\\WikampTheGame\\Player.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{96AF8D12-8868-4DB8-83C7-6F56E2F121EF}|WikampTheGame\\WikampTheGame.vcxproj|solutionrelative:WikampTheGame\\Player.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{96AF8D12-8868-4DB8-83C7-6F56E2F121EF}|WikampTheGame\\WikampTheGame.vcxproj|C:\\Users\\maria\\OneDrive\\Desktop\\kck\\WikampTheGame\\WikampTheGame\\WikampTheGame.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{96AF8D12-8868-4DB8-83C7-6F56E2F121EF}|WikampTheGame\\WikampTheGame.vcxproj|solutionrelative:WikampTheGame\\WikampTheGame.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
@@ -19,12 +27,38 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Player.cpp",
+              "DocumentMoniker": "C:\\Users\\maria\\OneDrive\\Desktop\\kck\\WikampTheGame\\WikampTheGame\\Player.cpp",
+              "RelativeDocumentMoniker": "WikampTheGame\\Player.cpp",
+              "ToolTip": "C:\\Users\\maria\\OneDrive\\Desktop\\kck\\WikampTheGame\\WikampTheGame\\Player.cpp",
+              "RelativeToolTip": "WikampTheGame\\Player.cpp",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAACYAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-07T10:10:03.578Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Player.hpp",
+              "DocumentMoniker": "C:\\Users\\maria\\OneDrive\\Desktop\\kck\\WikampTheGame\\WikampTheGame\\Player.hpp",
+              "RelativeDocumentMoniker": "WikampTheGame\\Player.hpp",
+              "ToolTip": "C:\\Users\\maria\\OneDrive\\Desktop\\kck\\WikampTheGame\\WikampTheGame\\Player.hpp",
+              "RelativeToolTip": "WikampTheGame\\Player.hpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-04-07T10:09:56.545Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "WikampTheGame.cpp",
               "DocumentMoniker": "C:\\Users\\maria\\OneDrive\\Desktop\\kck\\WikampTheGame\\WikampTheGame\\WikampTheGame.cpp",
               "RelativeDocumentMoniker": "WikampTheGame\\WikampTheGame.cpp",
               "ToolTip": "C:\\Users\\maria\\OneDrive\\Desktop\\kck\\WikampTheGame\\WikampTheGame\\WikampTheGame.cpp",
               "RelativeToolTip": "WikampTheGame\\WikampTheGame.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAfAAAAAAAAAA==",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAYwBYAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-03-27T18:43:21.591Z",
               "EditorCaption": ""
